@@ -1,5 +1,4 @@
 # courses-rest-apis-with-flask-and-python
-https://www.udemy.com/course/rest-api-flask-and-python/learn/lecture/5960108#overview
 
 Are you tired of boring, outdated, incomplete, or incorrect tutorials? I say no more to copy-pasting code that you don’t understand.
 
